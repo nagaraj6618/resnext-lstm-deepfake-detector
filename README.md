@@ -1,4 +1,4 @@
-# Deepfake detection using Deep Learning (ResNext and LSTM)
+# ResNeXt-LSTM DeepFake Detector
 
 
 ## 1. Introduction
