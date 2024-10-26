@@ -34,3 +34,15 @@ Deepfake_detection_using_deep_learning
 |model_90_acc_60_frames_final_data.pt | 6000| 60 |90.59097 |
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
+
+## 5. Output
+
+### 5.1 Home Page :
+![alt text](<github_assets/Home page.jpg>)
+
+### 5.2 Fake Result : 
+![alt text](github_assets/Fake1.jpg)
+
+
+### 5.3 Real Result : 
+![alt text](github_assets/Real1.jpg)
